@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data analysis, Data Engineer, and Data Science**
 
-- 💬 Ask me about **Python Data libraries and SQL**
+- 💬 Ask me about **Python and SQL**
 
 - 📫 How to reach me **zlasley8928@gmail.com**
 

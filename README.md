@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zachary Lasley</h1>
 <h3 align="center">An Aspiring Data Analysis from the U.S.A</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zlasley" alt="zlasley" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" alt="zlasley" /></a> </p>
 
 - 🌱 I’m currently learning **Data analysis, Data Engineer, and Data Science**
 

@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zlasley&theme=dracula" alt="zlasley" /></a> </p>
 
-- 🌱 I’m currently learning **Data analysis, Data Engineer, and Data Science**
+- 🌱 I’m currently learning to be a **Data analysis, Data Engineer, and Data Science**
 
-- 💬 Ask me about **Python and SQL**
+- 💬 Ask me about **Python, SQL, SQLite3, Juypter notebook, Bloom Institute of Technology*
 
 - 📫 How to reach me **zlasley8928@gmail.com**
 
